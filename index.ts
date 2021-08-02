@@ -39,7 +39,7 @@ const mockData = {
         {
             company: "Mon Qualiticien",
             job: "Développeur Back-End/DevOps",
-            mission: "Bug Fixing, Création d'environnements AWS, React",
+            mission: "Bug Fixing, Création d'environnements, React, GraphQL",
             date: "Novembre 2020 - Aujourd'hui"
         },
     ]
